@@ -1,0 +1,13 @@
+name = "No Flesh Within Chest"
+author = "Go-Camping"
+version = "0.3.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "32c9d30c3e335851c92a991d0b63deb6535b2c883a2379e93ba333cedb843019"
+
+[versions]
+forge = "43.4.12"
+minecraft = "1.19.2"
